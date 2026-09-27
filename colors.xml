@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="veloce_bg">#0A0B0E</color>
+    <color name="veloce_surface">#14161B</color>
+    <color name="veloce_red">#E10600</color>
+    <color name="veloce_red_soft">#FF3B30</color>
+    <color name="veloce_text">#F5F5F7</color>
+    <color name="veloce_text_dim">#9AA0A6</color>
+</resources>
